@@ -1,0 +1,18 @@
+<site domain name>		me_init:wwwmod			2775		664	
+①	access							me_init:wwwmod			2775		664	
+②	actual							me_init:wwwmod			2775		664	
+		2519_20140425		  me_init:wwwmod			2775		664	
+		xxxx_yyyymmdd			me_init:wwwmod			2775		664	
+		c_xxxx_yyyymmdd		me_init:wwwmod			2775		664	
+			files					  me_init:wwwmod			-		-	
+③	applog							me_init:wwwmod			2775		664	
+		batch						  me_init:batchmod		2775		664	
+		joomla						apache:wwwmod			  755			644	
+		php							  apache:batchmod			755			644	
+④	batch							  me_init:batchmod		2770		660	
+⑤	htdocs							me_init:wwwmod			-		-	
+⑥	logs							  root:root				    755			644	
+⑦	resources						me_init:wwwmod			2775		664	
+		data						  me_init:batchmod		2775		664	
+			web						  me_init:wwwmod			2775		664	
+⑧	scripts							me_init:batchmod		2770		660	
